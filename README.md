@@ -71,3 +71,6 @@ The raw data, sourced from multiple annual files, underwent a rigorous ETL proce
 Due to the large file size (277MB), the Power BI source report is hosted on Google Drive.
 
 **[Click here to download the .pbix file via Google Drive](https://drive.google.com/file/d/1h38cj5MR65cn3l1LxkEjdk-qriF3fFkL/view?usp=sharing)**
+
+### Contact
+**[Luis César da Fonseca Pereira]** - [LinkedIn](https://www.linkedin.com/in/luis-cesar-pereira/) 
