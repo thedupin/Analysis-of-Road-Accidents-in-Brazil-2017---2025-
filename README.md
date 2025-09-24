@@ -1,4 +1,4 @@
-# Brazilian Road Accidents Analysis (2017-2025)
+# Analysis of Road Accidents in Brazil (2017-2025)
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
