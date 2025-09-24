@@ -11,10 +11,10 @@
 ### Project Summary
 This project presents a complete analysis of road accident data recorded by the Brazilian Federal Highway Police (PRF) between 2017 and 2025. The objective was to clean, model, and visualize the data to identify patterns, trends, and the main risk factors associated with fatal and non-fatal accidents on Brazilian highways. The data model was structured using a Star Schema due to its high query performance and more intuitive analysis.
 
-### 🎥 Full Video Demonstration - TBD
+### 🎥 Full Video Demonstration - 
 **For a detailed analysis and presentation of the insights, please watch the full demonstration:**
 
-**[▶️ Watch Presentation on YouTube (5 min)]()**
+**[▶️ Watch Presentation on YouTube (5 min)](https://youtu.be/gDsP4T9vNyE)**
 
 ### Questions Answered
 The dashboard was built to answer critical questions, such as:
